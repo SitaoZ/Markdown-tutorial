@@ -82,12 +82,22 @@ _	        underscore
 ## 内嵌HTML语法
 
 
+## 上下标
+- 上标 10<sup>8</sup>
+```bash
+<sup>8</sub>
+```
 
 
+- 下标 log<sub>2</sub>
+```bash
+<sub>2</sub>
+```
 
+## 特殊符号
 
-
-
+- &ge;
+- &le;
 
 
 
